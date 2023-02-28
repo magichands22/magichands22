@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 🙂, I'm Juan Agustín Córdoba </h1>
+<h1 align="center">Hi 🙂, I'm Agustín Córdoba </h1>
 <h3 align="center">Full-Stack Web Development // 🌐 JavaScript 🌐 ReactJs ⚛️ Redux ⚛️ Nodejs 💻 Express ✅ Sequelize </h3>
 
 <h4 align="center">I am a Full Stack Development. My objective is to adquire new knowledge to become a better developer</h4>
