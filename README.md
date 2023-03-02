@@ -10,7 +10,7 @@
 <br>
  
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/agustin-cordoba/
-- 💭 Link to my EF SET Certificate: https://www.efset.org/cert/GULv5Y
+- 💭 Link to my EF SET Certificate: https://efset.org/cert/DYjvyB
 - Link to my Henry Certificate: 
 
 💻 *Languages and Tools:* 🛠️<br>
